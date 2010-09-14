@@ -101,6 +101,6 @@ This will get you to a working setup that allows you to run background-processed
 
 
 
-This plugin was developed by [Joshua Krall](http://github.com/jkrall) at [TransFS.com](http://transfs.com), and released to the community as an open-source project.  More info can be found at the [TransFS.com Development Blog](http://transfs.com/devblog).
+This plugin was developed by [Joshua Krall](http://github.com/jkrall) at [FeeFighters.com](http://feefighters.com), and released to the community as an open-source project.  More info can be found at the [FeeFighters.com Development Blog](http://feefighters.com/devblog).
 
 Copyright (c) 2009 TransFS.com, released under the MIT license
