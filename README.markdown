@@ -1,3 +1,6 @@
+*NOTE:*  This project is no longer in active development, or being supported at all.  If you are looking to track SEO results, I recommend [DIYSEO.com](http://DIYSEO.com) or [LinkDex](http://LinkDex.com)... but there are a number of other web service options as well.
+
+
 SEOpener
 ========
 
